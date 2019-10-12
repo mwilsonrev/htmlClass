@@ -1,0 +1,21 @@
+div{
+    /*width: 100px;*/
+    height: 100px;
+    border: 2px solid red;
+}
+
+img{
+    border: 10px groove darkred;
+}
+
+.dogone {
+    border: 5px groove darkblue;
+}
+
+.dogtwo{
+    border: 5px groove greenyellow;
+}
+
+.dogthree{
+    border: 5px groove mediumvioletred;
+}

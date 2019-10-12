@@ -1,0 +1,27 @@
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+img{
+    border: 10px groove darkred;
+    border-radius: 100%;
+    padding: 20px;
+    margin: 20px;
+}
+
+.dogone {
+    border: 5px double darkblue;
+    /*box-sizing: border-box;*/
+}
+
+.dogtwo{
+    border: 5px dashed greenyellow;
+}
+
+.dogthree{
+    border: 5px dotted mediumvioletred;
+}
